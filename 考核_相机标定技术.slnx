@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="考核_相机标定技术/考核_相机标定技术.vcxproj" Id="b8810dee-3dea-40bb-b0d6-d6ffafc330c0" />
+</Solution>
