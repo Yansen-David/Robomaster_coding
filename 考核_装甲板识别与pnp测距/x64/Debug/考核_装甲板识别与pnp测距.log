@@ -1,0 +1,42 @@
+﻿  maincoding.cpp
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,58): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,58): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,58): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,58): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,58): warning C4244:         ]
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,44): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,44): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,44): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(154,44): warning C4244:         ]
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,57): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,57): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,57): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,57): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,57): warning C4244:         ]
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,44): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,44): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,44): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(155,44): warning C4244:         ]
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,56): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,56): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,56): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,56): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,56): warning C4244:         ]
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,43): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,43): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,43): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,43): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(156,43): warning C4244:         ]
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,57): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,57): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,57): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,57): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,57): warning C4244:         ]
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,43): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,43): warning C4244:         with
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,43): warning C4244:         [
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,43): warning C4244:             _Tp=float
+C:\C++文件\考核_装甲板识别与pnp测距\考核_装甲板识别与pnp测距\maincoding.cpp(157,43): warning C4244:         ]
+  考核_装甲板识别与pnp测距.vcxproj -> C:\C++文件\考核_装甲板识别与pnp测距\x64\Debug\考核_装甲板识别与pnp测距.exe
