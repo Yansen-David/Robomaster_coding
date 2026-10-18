@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="相机标定默写2/相机标定默写2.vcxproj" Id="01059c91-22a5-4dbc-a173-d8aff106cd3e" />
+</Solution>
