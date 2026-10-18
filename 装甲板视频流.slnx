@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="装甲板视频流/装甲板视频流.vcxproj" Id="08f42ac8-24e9-47da-b885-71c8385194e4" />
+</Solution>
