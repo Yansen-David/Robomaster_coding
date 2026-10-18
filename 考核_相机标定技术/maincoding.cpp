@@ -17,7 +17,7 @@ int main() {
 	std::vector<cv::Point3f>world;
 	for (int i = 0;i < pattern_h;++i) {
 		for (int j = 0;j < pattern_w;++j) {
-			world.push_back(cv::Point3f(pattern_w * gaps, pattern_h * gaps, 0));
+			world.push_back(cv::Point3f(j * gaps, i * gaps, 0));
 		}
 	}
 
@@ -37,7 +37,7 @@ int main() {
 	//找标定点
 	int find_success = 0;
 	cv::TermCriteria criteria(cv::TermCriteria::EPS + cv::TermCriteria::MAX_ITER, 30, 0.1);
-	for (size_t i = 0;i < Files.size();++i) {
+	for (size_t i = 0;i < 25;++i) {
 		src = cv::imread(Files[i], 0);
 		std::vector<cv::Point2f>corners;
 		bool found = cv::findChessboardCorners(src, pattern, corners);
